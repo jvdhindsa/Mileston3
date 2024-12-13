@@ -51,8 +51,8 @@ try {
             <table class="min-w-full bg-white border border-gray-300 rounded-lg">
                 <thead>
                     <tr>
-                        <th class="px-4 py-2 border-b text-left">ID</th>
-                        <th class="px-4 py-2 border-b text-left">Name</th>
+                        <th class="px-4 py-2 border-b text-left">ID1</th>
+                        <th class="px-4 py-2 border-b text-left">Name1</th>
                         <th class="px-4 py-2 border-b text-left">Description</th>
                         <th class="px-4 py-2 border-b text-left">Actions</th>
                     </tr>
